@@ -1,63 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "信任面 · Trust surface (rigor stats)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚡ 安装与使用（30 秒上手）"
-    },
-    {
-      "description": "把项目 URL 地址 丢给 Claude Code / Codex，并指定是目录 / 项目 / 全局安装 —— 剩下的让它自己做。例如：\n把最后一行换成你要的作用域即可：",
-      "items": [],
-      "title": "最省事的一招：把 URL 丢给 Agent"
-    },
-    {
-      "description": "A. 插件市场（Claude Code v2.1+，推荐，可升级）\nB. 只要某一个 skill —— 直接拷文件夹\n拷进去的文件夹必须自带 （部分合集的 在下一层，拷那一层）。",
-      "items": [],
-      "title": "手动安装（两种，任选其一）"
-    },
-    {
-      "description": "新开一个会话，直接用自然语言说要做什么，Agent 会按 自动挑 skill；说不动就点名方法或 skill：",
-      "items": [],
-      "title": "怎么用"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🚀 从一个 idea 到一篇论文：社科实证研究 · 端到端流水线（全自动、可介入）"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "9 阶段流水线 · 每一步都覆盖到具体 skill"
-    },
-    {
-      "description": "为什么挑这 7 个？因为它们的行为都被基准钉死了 —— 不是营销口径，是对着已知答案反复跑过验证过的（17 项数值 benchmark + 37 项行为评测 ↗）。",
-      "items": [],
-      "title": "🏆 7 个 Stanford REAP × CoPaper.AI 自研 skill —— 是整个流水线的主干"
-    },
-    {
-      "description": "↴ 直跳到下方 76 行总表（每个合集带 锚点）。如果你更关心\"这些 skill 怎么用\"而不是\"有哪些 skill\"，看 📘 中文唯一权威正文 里的「按用途分组」与「旗舰流水线」两节。",
-      "items": [],
-      "title": "看到这里 —— 完整 76 行合集目录"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧰 76 个核心 Skills 合集一览（，编号连续无空缺）"
-    },
-    {
-      "description": "自 2026-04 首次发布以来的主干里程碑（完整提交记录见 Commits 与 ）：\nStar 增长曲线（非提交数）· 由 scripts/build-star-history.py 从 GitHub API 生成并提交入库\n如果 AERS 对你的工作有帮助，请引用它（CITATION.cff）并点个 Star，让更多研究者看到。\nAI 是放大器，不是替代品。它替你做最耗时的\"搬砖\"，你保留最核心的\"判断\"。\nStanford REAP × CoPaper.AI · 实证研究 AI 工具的学术工业级产品\n内置 20 个方法论 skill · 20 分钟完成实证论文 · 自研 StatsPAI（900+ 函数 / MIT 开源）",
-      "items": [],
-      "title": "📈 项目历程"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T07:11:10.470Z",
+    "last_updated": "2026-08-19T07:11:26.621Z",
     "original_repository": "brycewang-stanford/Auto-Empirical-Research-Skills",
     "original_repository_sha": "036fdeb145ccb8d67efff08e8eeb9cfc882314fd",
     "enhanced_repository": "enhansome/enhansome-Auto-Empirical-Research-Skills",
