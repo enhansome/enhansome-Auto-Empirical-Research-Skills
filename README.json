@@ -5,14 +5,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "⭐ 00",
-          "description": "StatsPAI 🔥 因果引擎 · Agent-native Python DSL： 一行跑闭环（DID/RD/IV/SCM/DML，900+ 函数） → brycewang-stanford/StatsPAI",
+          "title": "brycewang-stanford/StatsPAI",
+          "description": "StatsPAI 🔥 因果引擎 · Agent-native Python DSL： 一行跑闭环（DID/RD/IV/SCM/DML，900+ 函数） →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1026640764,
             "language": "Python",
-            "last_commit": "2026-08-24T14:00:03Z",
+            "last_commit": "2026-08-24T20:01:51Z",
             "owner": "brycewang-stanford",
             "repo": "StatsPAI",
             "stars": 299
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "⭐ 00.1",
-          "description": "Full Empirical · Python 📘 显式栈： · · · → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "Full Empirical · Python 📘 显式栈： · · · →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "⭐ 00.2",
-          "description": "Full Empirical · Stata 📊 · · · · 复现包 → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "Full Empirical · Stata 📊 · · · · 复现包 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,13 +45,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "⭐ 00.3",
-          "description": "Full Empirical · R 📗 tidyverse · · · + Quarto 渲染 → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "Full Empirical · R 📗 tidyverse · · · + Quarto 渲染 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,13 +60,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "01",
-          "description": "academic-paper-skills 大纲 → 手稿写作 + 7 维审稿人模拟 → lishix520/academic-paper-skills",
+          "title": "lishix520/academic-paper-skills",
+          "description": "academic-paper-skills 大纲 → 手稿写作 + 7 维审稿人模拟 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,13 +75,13 @@
             "last_commit": "2026-01-04T02:42:38Z",
             "owner": "lishix520",
             "repo": "academic-paper-skills",
-            "stars": 1209
+            "stars": 1212
           }
         },
         {
           "node_type": "item",
-          "title": "02",
-          "description": "research-skills 医学影像综述、提案、论文转幻灯片 → luwill/research-skills",
+          "title": "luwill/research-skills",
+          "description": "research-skills 医学影像综述、提案、论文转幻灯片 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "03",
-          "description": "scientific-skills 假设生成 + 28 个科学数据库 → K-Dense-AI/claude-scientific-skills",
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "description": "scientific-skills 假设生成 + 28 个科学数据库 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,13 +105,13 @@
             "last_commit": "2026-08-24T09:22:55Z",
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 34242
+            "stars": 34338
           }
         },
         {
           "node_type": "item",
-          "title": "04",
-          "description": "scientific-writer 引用管理 + 科学写作 → K-Dense-AI/claude-scientific-writer",
+          "title": "K-Dense-AI/claude-scientific-writer",
+          "description": "scientific-writer 引用管理 + 科学写作 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,13 +120,13 @@
             "last_commit": "2026-08-19T09:24:21Z",
             "owner": "K-Dense-AI",
             "repo": "claude-scientific-writer",
-            "stars": 2246
+            "stars": 2248
           }
         },
         {
           "node_type": "item",
-          "title": "05",
-          "description": "research-superpower 系统化检索、筛选与引文溯源 → kthorn/research-superpower",
+          "title": "kthorn/research-superpower",
+          "description": "research-superpower 系统化检索、筛选与引文溯源 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "06",
-          "description": "stats-paper-writing 端到端 LaTeX 统计论文写作 → fuhaoda/stats-paper-writing-agent-skills",
+          "title": "fuhaoda/stats-paper-writing-agent-skills",
+          "description": "stats-paper-writing 端到端 LaTeX 统计论文写作 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "07",
-          "description": "AI-Research-SKILLs 发表级 ML 图表、LaTeX、引文核验 → Orchestra-Research/AI-Research-SKILLs",
+          "title": "Orchestra-Research/AI-Research-SKILLs",
+          "description": "AI-Research-SKILLs 发表级 ML 图表、LaTeX、引文核验 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,28 +165,28 @@
             "last_commit": "2026-06-16T01:36:46Z",
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 11990
+            "stars": 12015
           }
         },
         {
           "node_type": "item",
-          "title": "08",
-          "description": "latex-document-skill 创建 / 编译任意 LaTeX 文档为 PDF → ndpvt-web/latex-document-skill",
+          "title": "ndpvt-web/latex-document-skill",
+          "description": "latex-document-skill 创建 / 编译任意 LaTeX 文档为 PDF →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1157286147,
             "language": "TeX",
-            "last_commit": "2026-08-24T02:56:28Z",
+            "last_commit": "2026-08-25T02:52:02Z",
             "owner": "ndpvt-web",
             "repo": "latex-document-skill",
-            "stars": 723
+            "stars": 724
           }
         },
         {
           "node_type": "item",
-          "title": "09",
-          "description": "awesome-econ-ai Python 面板数据分析（） → meleantonio/awesome-econ-ai-stuff",
+          "title": "meleantonio/awesome-econ-ai-stuff",
+          "description": "awesome-econ-ai Python 面板数据分析（） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "10",
-          "description": "causal-inference-mixtape DID / IV / RDD / SCM 模板（Cunningham） → Jill0099/causal-inference-mixtape",
+          "title": "Jill0099/causal-inference-mixtape",
+          "description": "causal-inference-mixtape DID / IV / RDD / SCM 模板（Cunningham） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "11",
-          "description": "compound-science 面向定量社会科学的贝叶斯估计 → James-Traina/compound-science",
+          "title": "James-Traina/compound-science",
+          "description": "compound-science 面向定量社会科学的贝叶斯估计 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,23 +230,23 @@
         },
         {
           "node_type": "item",
-          "title": "12",
-          "description": "claude-code-my-workflow 提交 → PR → 合并的研究工作流（Emory） → pedrohcgs/claude-code-my-workflow",
+          "title": "pedrohcgs/claude-code-my-workflow",
+          "description": "claude-code-my-workflow 提交 → PR → 合并的研究工作流（Emory） →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1151617003,
             "language": "HTML",
-            "last_commit": "2026-08-24T13:38:54Z",
+            "last_commit": "2026-08-24T16:57:42Z",
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1526
+            "stars": 1527
           }
         },
         {
           "node_type": "item",
-          "title": "13",
-          "description": "MixtapeTools Cunningham 的因果推断工具集与讲义 → scunning1975/MixtapeTools",
+          "title": "scunning1975/MixtapeTools",
+          "description": "MixtapeTools Cunningham 的因果推断工具集与讲义 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,13 +255,13 @@
             "last_commit": "2026-05-28T14:25:51Z",
             "owner": "scunning1975",
             "repo": "MixtapeTools",
-            "stars": 443
+            "stars": 444
           }
         },
         {
           "node_type": "item",
-          "title": "14",
-          "description": "research-starter R 中的 IV / DiD / RDD，含完整诊断 → luischanci/claude-code-research-starter",
+          "title": "luischanci/claude-code-research-starter",
+          "description": "research-starter R 中的 IV / DiD / RDD，含完整诊断 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "15",
-          "description": "social-science-research R 或 Python 端到端数据分析 → Felpix-Studios/social-science-research",
+          "title": "Felpix-Studios/social-science-research",
+          "description": "social-science-research R 或 Python 端到端数据分析 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "16",
-          "description": "clo-author 多代理数据分析（R / Stata / Python） → hsantanna88/clo-author",
+          "title": "hsantanna88/clo-author",
+          "description": "clo-author 多代理数据分析（R / Stata / Python） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -300,13 +300,13 @@
             "last_commit": "2026-08-07T13:20:35Z",
             "owner": "hugosantanna",
             "repo": "clo-author",
-            "stars": 249
+            "stars": 250
           }
         },
         {
           "node_type": "item",
-          "title": "17",
-          "description": "DAAF 安全意识代理框架（32 条 deny rule） → DAAF-Contribution-Community/daaf",
+          "title": "DAAF-Contribution-Community/daaf",
+          "description": "DAAF 安全意识代理框架（32 条 deny rule） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "18",
-          "description": "stata-accounting 来自 126 篇 JAR 论文的实测 Stata 范式 → jusi-aalto/stata-accounting-research",
+          "title": "jusi-aalto/stata-accounting-research",
+          "description": "stata-accounting 来自 126 篇 JAR 论文的实测 Stata 范式 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "19",
-          "description": "vera-economic-intelligence 经济情报 / 政策研究情报工作流 → CuellarC05/vera-economic-intelligence",
+          "title": "CuellarC05/vera-economic-intelligence",
+          "description": "vera-economic-intelligence 经济情报 / 政策研究情报工作流 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "20",
-          "description": "python-econ-skill DSGE / HANK 与定量经济计算 → wenddymacro/python-econ-skill",
+          "title": "wenddymacro/python-econ-skill",
+          "description": "python-econ-skill DSGE / HANK 与定量经济计算 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "21",
-          "description": "AI-research-feedback 用 AI 同行评审生成结构化反馈 → claesbackman/AI-research-feedback",
+          "title": "claesbackman/AI-research-feedback",
+          "description": "AI-research-feedback 用 AI 同行评审生成结构化反馈 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "22",
-          "description": "christopherkenny-skills 面向 Quarto（）的 APSA 风格检查器 → christopherkenny/skills",
+          "title": "christopherkenny/skills",
+          "description": "christopherkenny-skills 面向 Quarto（）的 APSA 风格检查器 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "23",
-          "description": "baygent 带护栏的 PyMC / Arviz 贝叶斯工作流 → Learning-Bayesian-Statistics/baygent-skills",
+          "title": "Learning-Bayesian-Statistics/baygent-skills",
+          "description": "baygent 带护栏的 PyMC / Arviz 贝叶斯工作流 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "24",
-          "description": "academic-research-skills 5 审稿人多视角论文评审 → Imbad0202/academic-research-skills",
+          "title": "Imbad0202/academic-research-skills",
+          "description": "academic-research-skills 5 审稿人多视角论文评审 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -420,13 +420,13 @@
             "last_commit": "2026-08-24T10:04:28Z",
             "owner": "Imbad0202",
             "repo": "academic-research-skills",
-            "stars": 43543
+            "stars": 43596
           }
         },
         {
           "node_type": "item",
-          "title": "25",
-          "description": "Diverga 研究问题精炼器（抗模式坍缩） → HosungYou/Diverga",
+          "title": "HosungYou/Diverga",
+          "description": "Diverga 研究问题精炼器（抗模式坍缩） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "26",
-          "description": "scholar 统计算法设计与文档 → Data-Wise/claude-plugins",
+          "title": "Data-Wise/claude-plugins",
+          "description": "scholar 统计算法设计与文档 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "27",
-          "description": "my_claude_skills 经济学摘要写作指南 → dariia-m/my_claude_skills",
+          "title": "dariia-m/my_claude_skills",
+          "description": "my_claude_skills 经济学摘要写作指南 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "28",
-          "description": "paper-replicate-agent 论文复现代理演示 → maxwell2732/paper-replicate-agent-demo",
+          "title": "maxwell2732/paper-replicate-agent-demo",
+          "description": "paper-replicate-agent 论文复现代理演示 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "29",
-          "description": "project20XXy 可复现手稿 + notebook 项目 → quarcs-lab/project20XXy",
+          "title": "quarcs-lab/project20XXy",
+          "description": "project20XXy 可复现手稿 + notebook 项目 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "30",
-          "description": "zirui-song-claude-skills Zirui Song 的研究辅助 Claude 技能集 → zirui-song/claude-skills",
+          "title": "zirui-song/claude-skills",
+          "description": "zirui-song-claude-skills Zirui Song 的研究辅助 Claude 技能集 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "31",
-          "description": "claude-code-skills Python 面板数据分析 → thalysandratos/claude-code-skills",
+          "title": "thalysandratos/claude-code-skills",
+          "description": "claude-code-skills Python 面板数据分析 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "32",
-          "description": "stata-skill 高性能 Stata C/C++ 插件 → dylantmoore/stata-skill",
+          "title": "dylantmoore/stata-skill",
+          "description": "stata-skill 高性能 Stata C/C++ 插件 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "33",
-          "description": "claude-scholar 研究全生命周期：选题 → 综述 → 实验 → 审稿回复 → Galaxy-Dawn/claude-scholar",
+          "title": "Galaxy-Dawn/claude-scholar",
+          "description": "claude-scholar 研究全生命周期：选题 → 综述 → 实验 → 审稿回复 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -555,13 +555,13 @@
             "last_commit": "2026-08-21T07:40:33Z",
             "owner": "Galaxy-Dawn",
             "repo": "claude-scholar",
-            "stars": 5177
+            "stars": 5185
           }
         },
         {
           "node_type": "item",
-          "title": "34",
-          "description": "research-companion 头脑风暴、评估并决策研究方向 → andrehuang/research-companion",
+          "title": "andrehuang/research-companion",
+          "description": "research-companion 头脑风暴、评估并决策研究方向 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,13 +570,13 @@
             "last_commit": "2026-04-13T07:23:07Z",
             "owner": "andrehuang",
             "repo": "research-companion",
-            "stars": 707
+            "stars": 708
           }
         },
         {
           "node_type": "item",
-          "title": "35",
-          "description": "academic-writing-skills 面向投稿场所的工业 AI 文献研究 → bahayonghang/academic-writing-skills",
+          "title": "bahayonghang/academic-writing-skills",
+          "description": "academic-writing-skills 面向投稿场所的工业 AI 文献研究 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "36",
-          "description": "literature-review-skill 完整文献综述工作流（中文） → taoyunudt/literature-review-skill",
+          "title": "taoyunudt/literature-review-skill",
+          "description": "literature-review-skill 完整文献综述工作流（中文） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "37",
-          "description": "IlanStrauss-ai-skills Ilan Strauss 经济学研究 AI 工作流 → IlanStrauss/ai-skills",
+          "title": "IlanStrauss/ai-skills",
+          "description": "IlanStrauss-ai-skills Ilan Strauss 经济学研究 AI 工作流 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "38",
-          "description": "academic-proofreader 学术校对 → peternka/academic_proofreader",
+          "title": "peternka/academic_proofreader",
+          "description": "academic-proofreader 学术校对 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "39",
-          "description": "marginaleffects 预测、斜率与比较（R / Python） → vincentarelbundock/marginaleffects",
+          "title": "vincentarelbundock/marginaleffects",
+          "description": "marginaleffects 预测、斜率与比较（R / Python） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "40",
-          "description": "pyfixest Python 中的快速固定效应估计 → py-econometrics/pyfixest",
+          "title": "py-econometrics/pyfixest",
+          "description": "pyfixest Python 中的快速固定效应估计 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,8 +665,8 @@
         },
         {
           "node_type": "item",
-          "title": "41",
-          "description": "sewage-econometrics-check 10 项复现包审计 → sticerd-eee/sewage",
+          "title": "sticerd-eee/sewage",
+          "description": "sewage-econometrics-check 10 项复现包审计 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,8 +680,8 @@
         },
         {
           "node_type": "item",
-          "title": "42",
-          "description": "ARIS 自主「research-in-sleep」代理，端到端 → wanshuiyin/Auto-claude-code-research-in-sleep",
+          "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+          "description": "ARIS 自主「research-in-sleep」代理，端到端 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -690,13 +690,13 @@
             "last_commit": "2026-08-24T04:19:41Z",
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 15083
+            "stars": 15131
           }
         },
         {
           "node_type": "item",
-          "title": "43",
-          "description": "research-plugins 478 个研究插件：数据可视化、领域、基础设施 → wentorai/research-plugins",
+          "title": "wentorai/research-plugins",
+          "description": "research-plugins 478 个研究插件：数据可视化、领域、基础设施 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -705,13 +705,13 @@
             "last_commit": "2026-06-19T03:04:02Z",
             "owner": "wentorai",
             "repo": "research-plugins",
-            "stars": 276
+            "stars": 278
           }
         },
         {
           "node_type": "item",
-          "title": "44",
-          "description": "humanizer_academic 为医学/学术手稿去 AI 味（23 类模式） → matsuikentaro1/humanizer_academic",
+          "title": "matsuikentaro1/humanizer_academic",
+          "description": "humanizer_academic 为医学/学术手稿去 AI 味（23 类模式） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -720,13 +720,13 @@
             "last_commit": "2026-08-11T08:41:53Z",
             "owner": "matsuikentaro1",
             "repo": "humanizer_academic",
-            "stars": 170
+            "stars": 169
           }
         },
         {
           "node_type": "item",
-          "title": "45",
-          "description": "deslop 去除 AI 写作痕迹（5 维评分） → stephenturner/skill-deslop",
+          "title": "stephenturner/skill-deslop",
+          "description": "deslop 去除 AI 写作痕迹（5 维评分） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -735,13 +735,13 @@
             "last_commit": "2026-03-18T17:30:41Z",
             "owner": "stephenturner",
             "repo": "skill-deslop",
-            "stars": 359
+            "stars": 362
           }
         },
         {
           "node_type": "item",
-          "title": "46",
-          "description": "stop-slop 三层 AI 痕迹检测与改写 → hardikpandya/stop-slop",
+          "title": "hardikpandya/stop-slop",
+          "description": "stop-slop 三层 AI 痕迹检测与改写 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -750,28 +750,28 @@
             "last_commit": "2026-03-17T18:50:39Z",
             "owner": "hardikpandya",
             "repo": "stop-slop",
-            "stars": 16303
+            "stars": 16338
           }
         },
         {
           "node_type": "item",
-          "title": "47",
-          "description": "avoid-ai-writing 审计 → 改写 → 二次审计 AI 味（留痕） → conorbronsdon/avoid-ai-writing",
+          "title": "conorbronsdon/avoid-ai-writing",
+          "description": "avoid-ai-writing 审计 → 改写 → 二次审计 AI 味（留痕） →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1174224707,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T08:18:04Z",
+            "last_commit": "2026-08-24T17:41:39Z",
             "owner": "conorbronsdon",
             "repo": "avoid-ai-writing",
-            "stars": 3222
+            "stars": 3234
           }
         },
         {
           "node_type": "item",
-          "title": "⭐ 48",
-          "description": "de-AIGC-skills 🇨🇳🇬🇧 中英双语学术降 AIGC（Turnitin AI / GPTZero / 知网 / 万方） → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "de-AIGC-skills 🇨🇳🇬🇧 中英双语学术降 AIGC（Turnitin AI / GPTZero / 知网 / 万方） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -780,19 +780,19 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "49",
-          "description": "humanize-chinese 检测并人性化 AI 生成的中文文本 → swaylq/humanize-chinese",
+          "title": "swaylq/humanize-chinese",
+          "description": "humanize-chinese 检测并人性化 AI 生成的中文文本 →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1245362186,
             "language": "Python",
-            "last_commit": "2026-08-24T11:14:08Z",
+            "last_commit": "2026-08-24T16:41:01Z",
             "owner": "swaylq",
             "repo": "humanize-chinese",
             "stars": 12
@@ -800,8 +800,8 @@
         },
         {
           "node_type": "item",
-          "title": "⭐ 50",
-          "description": "AER-skills 📕 Top-5 经济学投稿套件：识别 → 稳健性 → R&R → brycewang-stanford/AER-skills",
+          "title": "brycewang-stanford/AER-skills",
+          "description": "AER-skills 📕 Top-5 经济学投稿套件：识别 → 稳健性 → R&R →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,14 +815,14 @@
         },
         {
           "node_type": "item",
-          "title": "51",
-          "description": "CausalPy 贝叶斯准实验（PyMC Labs） → pymc-labs/CausalPy",
+          "title": "pymc-labs/CausalPy",
+          "description": "CausalPy 贝叶斯准实验（PyMC Labs） →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 539537904,
             "language": "Python",
-            "last_commit": "2026-08-24T10:12:52Z",
+            "last_commit": "2026-08-24T20:58:28Z",
             "owner": "pymc-labs",
             "repo": "CausalPy",
             "stars": 1180
@@ -830,8 +830,8 @@
         },
         {
           "node_type": "item",
-          "title": "52",
-          "description": "slr-prisma 系统文献综述，PRISMA 2020 → keemanxp/slr-prisma",
+          "title": "keemanxp/slr-prisma",
+          "description": "slr-prisma 系统文献综述，PRISMA 2020 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,8 +845,8 @@
         },
         {
           "node_type": "item",
-          "title": "53",
-          "description": "thematic-analysis Braun & Clarke 六阶段定性主题分析 → keemanxp/thematic-analysis-skill",
+          "title": "keemanxp/thematic-analysis-skill",
+          "description": "thematic-analysis Braun & Clarke 六阶段定性主题分析 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,8 +860,8 @@
         },
         {
           "node_type": "item",
-          "title": "54",
-          "description": "open-science-skills 引用一致性、DOI 与论据支撑审计 → scdenney/open-science-skills",
+          "title": "scdenney/open-science-skills",
+          "description": "open-science-skills 引用一致性、DOI 与论据支撑审计 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,8 +875,8 @@
         },
         {
           "node_type": "item",
-          "title": "55",
-          "description": "r-skills R 中用 做贝叶斯推断 → ab604/claude-code-r-skills",
+          "title": "ab604/claude-code-r-skills",
+          "description": "r-skills R 中用 做贝叶斯推断 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -890,8 +890,8 @@
         },
         {
           "node_type": "item",
-          "title": "56",
-          "description": "econ-writing-skill 综合 50+ 顶级指南的经济学写作 → hanlulong/econ-writing-skill",
+          "title": "hanlulong/econ-writing-skill",
+          "description": "econ-writing-skill 综合 50+ 顶级指南的经济学写作 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,28 +900,28 @@
             "last_commit": "2026-07-20T00:11:11Z",
             "owner": "hanlulong",
             "repo": "econ-writing-skill",
-            "stars": 557
+            "stars": 558
           }
         },
         {
           "node_type": "item",
-          "title": "57",
-          "description": "edgartools 查询与分析 SEC 文件 → dgunning/edgartools",
+          "title": "dgunning/edgartools",
+          "description": "edgartools 查询与分析 SEC 文件 →",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 581872397,
             "language": "Python",
-            "last_commit": "2026-08-24T13:50:09Z",
+            "last_commit": "2026-08-25T01:46:25Z",
             "owner": "dgunning",
             "repo": "edgartools",
-            "stars": 2609
+            "stars": 2613
           }
         },
         {
           "node_type": "item",
-          "title": "58",
-          "description": "econstack 政策简报（UK GES / AU Treasury） → charlescoverdale/econstack",
+          "title": "charlescoverdale/econstack",
+          "description": "econstack 政策简报（UK GES / AU Treasury） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,8 +935,8 @@
         },
         {
           "node_type": "item",
-          "title": "59",
-          "description": "openalex-skill 通过 OpenAlex 查询 2.4 亿+ 学术作品 → shiquda/openalex-skill",
+          "title": "shiquda/openalex-skill",
+          "description": "openalex-skill 通过 OpenAlex 查询 2.4 亿+ 学术作品 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,8 +950,8 @@
         },
         {
           "node_type": "item",
-          "title": "60",
-          "description": "superpapers 综合性实证研究支持套件 → regisely/superpapers",
+          "title": "regisely/superpapers",
+          "description": "superpapers 综合性实证研究支持套件 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "61",
-          "description": "research-methods 与预注册匹配的验证性检验 → phdemotions/research-methods",
+          "title": "phdemotions/research-methods",
+          "description": "research-methods 与预注册匹配的验证性检验 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,8 +980,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "citation-checker 对照 CrossRef / S2 / OpenAlex 核验引用 → PHY041/claude-skill-citation-checker",
+          "title": "PHY041/claude-skill-citation-checker",
+          "description": "citation-checker 对照 CrossRef / S2 / OpenAlex 核验引用 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,8 +995,8 @@
         },
         {
           "node_type": "item",
-          "title": "63",
-          "description": "scientific-agent-skills DoWhy 识别–估计–反驳框架 → tondevrel/scientific-agent-skills",
+          "title": "tondevrel/scientific-agent-skills",
+          "description": "scientific-agent-skills DoWhy 识别–估计–反驳框架 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,8 +1010,8 @@
         },
         {
           "node_type": "item",
-          "title": "64",
-          "description": "mcp-stata 20 个 Stata 因果推断与复现 skill → tmonk/mcp-stata",
+          "title": "tmonk/mcp-stata",
+          "description": "mcp-stata 20 个 Stata 因果推断与复现 skill →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1025,8 +1025,8 @@
         },
         {
           "node_type": "item",
-          "title": "65",
-          "description": "game-theory-paper-writer 生成并压力测试博弈论论文 → 本仓库 PR #17",
+          "title": "本仓库 PR #17",
+          "description": "game-theory-paper-writer 生成并压力测试博弈论论文 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1035,13 +1035,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "66",
-          "description": "empirical-research-skills 面向大型面板的 R 性能优化 → SiyaoZheng/ai4ss-skills",
+          "title": "SiyaoZheng/ai4ss-skills",
+          "description": "empirical-research-skills 面向大型面板的 R 性能优化 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,8 +1055,8 @@
         },
         {
           "node_type": "item",
-          "title": "67",
-          "description": "econfin-workflow-toolkit 中国公司金融实证工作流，从提案到论文 → 本仓库 PR #22",
+          "title": "本仓库 PR #22",
+          "description": "econfin-workflow-toolkit 中国公司金融实证工作流，从提案到论文 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1065,13 +1065,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "68",
-          "description": "research-productivity-skills 论文检索、SSRN、DOI 查询、下载 → 本仓库 PR #21",
+          "title": "本仓库 PR #21",
+          "description": "research-productivity-skills 论文检索、SSRN、DOI 查询、下载 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1080,13 +1080,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "⭐ 69",
-          "description": "Paper-WorkFlow 🧭 元编排器，串起整个社会科学论文流水线 → brycewang-stanford/Paper-WorkFlow",
+          "title": "brycewang-stanford/Paper-WorkFlow",
+          "description": "Paper-WorkFlow 🧭 元编排器，串起整个社会科学论文流水线 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1100,8 +1100,8 @@
         },
         {
           "node_type": "item",
-          "title": "70",
-          "description": "ssci-polish ✍️ SSCI / SCI 英文论文语言润色（语法、可读性、学术语气） → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "ssci-polish ✍️ SSCI / SCI 英文论文语言润色（语法、可读性、学术语气） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1110,13 +1110,13 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         },
         {
           "node_type": "item",
-          "title": "⭐ 71",
-          "description": "lit-review-agent-tools 🔍 文献综述工具选型 + 一键安装运行（MinerU / PaperQA2 / ASReview / STORM / MCP 服务器） → brycewang-stanford/lit-review-agent-tools",
+          "title": "brycewang-stanford/lit-review-agent-tools",
+          "description": "lit-review-agent-tools 🔍 文献综述工具选型 + 一键安装运行（MinerU / PaperQA2 / ASReview / STORM / MCP 服务器） →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,8 +1130,8 @@
         },
         {
           "node_type": "item",
-          "title": "⭐ 72",
-          "description": "Kaggle Research 🧪 通过官方 CLI 安全检索 Kaggle 资源、限界下载公开数据并保留审计证据 → ⭐ 本仓库",
+          "title": "⭐ 本仓库",
+          "description": "Kaggle Research 🧪 通过官方 CLI 安全检索 Kaggle 资源、限界下载公开数据并保留审计证据 →",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-08-24T05:28:12Z",
             "owner": "brycewang-stanford",
             "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3527
+            "stars": 3533
           }
         }
       ],
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:53.242Z",
+    "last_updated": "2026-08-25T05:53:20.179Z",
     "original_repository": "brycewang-stanford/Auto-Empirical-Research-Skills",
     "original_repository_id": 1200204014,
     "original_repository_sha": "692e9fa3fea40bbdf614584d461851f8fb968ac2",
