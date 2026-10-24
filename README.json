@@ -15,11 +15,11 @@
             "id": 1026640764,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T06:30:36Z",
+            "last_commit": "2026-10-24T06:13:02Z",
             "open_issues": 0,
             "owner": "brycewang-stanford",
             "repo": "StatsPAI",
-            "stars": 345,
+            "stars": 347,
             "topics": [
               "agent-native",
               "ai-agents",
@@ -57,11 +57,11 @@
             "id": 1026640764,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T06:30:36Z",
+            "last_commit": "2026-10-24T06:13:02Z",
             "open_issues": 0,
             "owner": "brycewang-stanford",
             "repo": "StatsPAI",
-            "stars": 345,
+            "stars": 347,
             "topics": [
               "agent-native",
               "ai-agents",
@@ -105,11 +105,11 @@
             "id": 1026640764,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T06:30:36Z",
+            "last_commit": "2026-10-24T06:13:02Z",
             "open_issues": 0,
             "owner": "brycewang-stanford",
             "repo": "StatsPAI",
-            "stars": 345,
+            "stars": 347,
             "topics": [
               "agent-native",
               "ai-agents",
@@ -151,7 +151,7 @@
             "open_issues": 1,
             "owner": "lishix520",
             "repo": "academic-paper-skills",
-            "stars": 1425,
+            "stars": 1427,
             "topics": [
               "academic-writing",
               "claude-code",
@@ -178,7 +178,7 @@
             "open_issues": 1,
             "owner": "luwill",
             "repo": "research-skills",
-            "stars": 875,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -196,10 +196,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T09:33:57Z",
-            "open_issues": 64,
+            "open_issues": 72,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 54072,
+            "stars": 54356,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -238,7 +238,7 @@
             "open_issues": 8,
             "owner": "K-Dense-AI",
             "repo": "claude-scientific-writer",
-            "stars": 2515,
+            "stars": 2519,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -308,7 +308,7 @@
             "open_issues": 23,
             "owner": "Orchestra-Research",
             "repo": "AI-Research-SKILLs",
-            "stars": 13870,
+            "stars": 13897,
             "topics": [
               "ai",
               "ai-research",
@@ -381,7 +381,7 @@
             "open_issues": 6,
             "owner": "meleantonio",
             "repo": "awesome-econ-ai-stuff",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -444,7 +444,7 @@
             "open_issues": 6,
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1667,
+            "stars": 1668,
             "topics": [
               "academic-writing",
               "causal-inference",
@@ -557,7 +557,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-16T21:11:43Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "DAAF-Contribution-Community",
             "repo": "daaf",
             "stars": 239,
@@ -640,11 +640,11 @@
             "id": 1169890710,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:36:25Z",
+            "last_commit": "2026-10-24T10:23:15Z",
             "open_issues": 0,
             "owner": "claesbackman",
             "repo": "AI-research-feedback",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -708,11 +708,11 @@
             "id": 1167300963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T11:40:59Z",
+            "last_commit": "2026-10-24T09:57:26Z",
             "open_issues": 43,
             "owner": "Imbad0202",
             "repo": "academic-research-skills",
-            "stars": 53551,
+            "stars": 53680,
             "topics": [
               "academic-pipeline",
               "academic-writing",
@@ -902,7 +902,7 @@
             "open_issues": 6,
             "owner": "dylantmoore",
             "repo": "stata-skill",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -923,7 +923,7 @@
             "open_issues": 4,
             "owner": "Galaxy-Dawn",
             "repo": "claude-scholar",
-            "stars": 5884,
+            "stars": 5888,
             "topics": [
               "academic-research",
               "ai-agents",
@@ -978,7 +978,7 @@
             "open_issues": 0,
             "owner": "bahayonghang",
             "repo": "academic-writing-skills",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "academic",
               "latex",
@@ -1003,7 +1003,7 @@
             "open_issues": 0,
             "owner": "taoyunudt",
             "repo": "literature-review-skill",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1062,11 +1062,11 @@
             "id": 403625715,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-22T15:18:10Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-23T13:30:08Z",
+            "open_issues": 9,
             "owner": "vincentarelbundock",
             "repo": "marginaleffects",
-            "stars": 650,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1083,8 +1083,8 @@
             "id": 568100553,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T21:33:08Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-24T11:14:16Z",
+            "open_issues": 264,
             "owner": "py-econometrics",
             "repo": "pyfixest",
             "stars": 358,
@@ -1130,10 +1130,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-22T06:23:14Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "wanshuiyin",
             "repo": "Auto-claude-code-research-in-sleep",
-            "stars": 17957,
+            "stars": 17992,
             "topics": [
               "ai-research",
               "ai-tools",
@@ -1175,7 +1175,7 @@
             "open_issues": 0,
             "owner": "wentorai",
             "repo": "research-plugins",
-            "stars": 304,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1196,7 +1196,7 @@
             "open_issues": 0,
             "owner": "matsuikentaro1",
             "repo": "humanizer_academic",
-            "stars": 284,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1217,7 +1217,7 @@
             "open_issues": 4,
             "owner": "stephenturner",
             "repo": "skill-deslop",
-            "stars": 421,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1238,7 +1238,7 @@
             "open_issues": 58,
             "owner": "hardikpandya",
             "repo": "stop-slop",
-            "stars": 18264,
+            "stars": 18284,
             "topics": []
           },
           "first_seen": "2026-08-28T18:51:17.312Z"
@@ -1259,7 +1259,7 @@
             "open_issues": 16,
             "owner": "conorbronsdon",
             "repo": "avoid-ai-writing",
-            "stars": 5196,
+            "stars": 5219,
             "topics": [
               "ai-writing",
               "claude",
@@ -1368,8 +1368,8 @@
             "id": 539537904,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T23:23:59Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-24T08:22:36Z",
+            "open_issues": 156,
             "owner": "pymc-labs",
             "repo": "CausalPy",
             "stars": 1209,
@@ -1500,7 +1500,7 @@
             "open_issues": 0,
             "owner": "hanlulong",
             "repo": "econ-writing-skill",
-            "stars": 674,
+            "stars": 677,
             "topics": [
               "academic-writing",
               "agent-skills",
@@ -1526,11 +1526,11 @@
             "id": 581872397,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T02:06:30Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-23T22:59:19Z",
+            "open_issues": 126,
             "owner": "dgunning",
             "repo": "edgartools",
-            "stars": 2810,
+            "stars": 2813,
             "topics": [
               "10-k",
               "10-q",
@@ -1796,7 +1796,7 @@
             "open_issues": 3,
             "owner": "brycewang-stanford",
             "repo": "lit-review-agent-tools",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "academic-research",
               "ai-agents",
@@ -1851,7 +1851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:51:12.259Z",
+    "last_updated": "2026-10-24T11:18:27.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
@@ -1863,7 +1863,7 @@
       "open_issues": 2,
       "owner": "brycewang-stanford",
       "repo": "Auto-Empirical-Research-Skills",
-      "stars": 4741,
+      "stars": 4751,
       "topics": [
         "academic-research",
         "agent-skills",
